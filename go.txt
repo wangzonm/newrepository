@@ -2,3 +2,4 @@ aaaaaaaa
 bbbbbbbbbbbbc
 ccccccccc
 test modify
+conflict hot
