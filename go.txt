@@ -3,3 +3,4 @@ bbbbbbbbbbbbc
 ccccccccc
 test modify
 conflict hot
+conflict
